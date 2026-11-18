@@ -1,0 +1,7 @@
+echo "# mhkhan85math" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mhkhan85math/mhkhan85math.git
+git push -u origin main
